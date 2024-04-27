@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Rajan Kumar Thakur </h1> 
 <br>
-<h1 align="center">Not just Average Software Engineer </h1>
+<h1 align="center">Not just a Average Software Engineer </h1>
 
 ###
 
@@ -46,6 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
 
 ###
