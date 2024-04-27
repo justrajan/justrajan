@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Rajan Kumar Thakur  and I'm a  Student , from  ADYPSOE Pune</h2>
+<h1 align="center">Hi 👋! My name is Rajan Kumar Thakur </h1> 
+<br>
+<h1 align="center">Not a Average Software Engineer </h1>
 
 ###
 
