@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Rajan Kumar Thakur </h1> 
 <br>
-<h1 align="center">Not just a Average Software Engineer </h1>
+<h1 align="center">Software Engineer </h1>
 
 ###
 
